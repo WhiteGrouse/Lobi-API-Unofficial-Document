@@ -1,2 +1,3 @@
 # Lobi-API-Unofficial-Document
-LobiのAPIエンドポイントに関する非公式ドキュメント
+LobiのAPIエンドポイントに関する非公式ドキュメント  
+Kayacさん、公式APIドキュメントのリリースをお願いします…
